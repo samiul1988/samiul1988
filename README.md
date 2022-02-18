@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Programming Languages and Technologies
+React, NodeJS, Javascript, Python
 
-# My Contacts
+Developed QGIS plugins using Python
+
+### My Contacts
 Email: samiulhaydereee@gmail.com
 [LinkedIn](https://www.linkedin.com/in/samiul-choudhury/)
 
