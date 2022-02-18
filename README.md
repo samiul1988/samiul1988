@@ -23,4 +23,5 @@ Developed QGIS plugins using Python
 Email: samiulhaydereee@gmail.com
 [LinkedIn](https://www.linkedin.com/in/samiul-choudhury/)
 
-
+[![Samiul's Github Stats](https://github-readme-stats.vercel.app/api?username=samiul1988&show_icons=true&theme=vue&hide=stars&count_private=true)](https://github.com/samiul1988/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiul1988&layout=compact&langs_count=8)](https://github.com/samiul1988/github-readme-stats)
