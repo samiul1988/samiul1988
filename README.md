@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, Samiul here; Welcome to my Github Repo!
 
 <!--
 **samiul1988/samiul1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My Contacts
+Email: samiulhaydereee@gmail.com
+[LinkedIn](https://www.linkedin.com/in/samiul-choudhury/)
+
+
